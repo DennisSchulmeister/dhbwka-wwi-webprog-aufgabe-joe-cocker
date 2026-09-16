@@ -1,3 +1,7 @@
+/** Allgemeine Schrifteinstellungen **/
+@import url('https://fonts.googleapis.com/css?family=Bellefair');
+
+
 /** Hintergrundbild **/
 html {
     min-height: 100%;
@@ -8,8 +12,6 @@ body {
     padding: 0;
 }
 
-/** Allgemeine Schrifteinstellungen **/
-@import url('https://fonts.googleapis.com/css?family=Bellefair');
 
 html {
     font-family: 'Bellefair', serif;
