@@ -1,12 +1,19 @@
-# Webprogrammierung / Aufgabe / Joe Cocker
+# Web Programming / Task / Joe Cocker #
 
-Dies ist eine **Übungsaufgabe** aus der Vorlesung **Webprogrammierung** (Wirtschaftsinformatik, DHBW Karlsruhe), Kategorie *HTML und CSS*.
+<br>
 
-Die 2014 online gestellte Gedenkseite für den Musiker Joe Cocker wird anhand von Kommentaren im HTML-Code als Layout-Übung rekonstruiert.
+This repository is a fork of the following repository by Dennis Schulmeister-Zimolong:
+https://github.com/DennisSchulmeister/dhbwka-wwi-webprog-aufgabe-joe-cocker
 
-Dieses Repository ist Teil der Quellcodes [dhbwka-wwi-webprog-quellcodes](https://github.com/DennisSchulmeister/dhbwka-wwi-webprog-quellcodes) zur Vorlesung Webprogrammierung.
+The repository contains a single web page whose CSS style sheet is to be completed.
+What has to be completed is described in the comment at the top of the `<body>` tag
+in file `index.html`.
 
-## Copyright
+<br>
+
+## Copyright ##
+
+<br>
 
 Sämtliche Quellcodes sind lizenziert unter
 [_Creative Commons Namensnennung 4.0 International_](http://creativecommons.org/licenses/by/4.0/)
@@ -15,3 +22,5 @@ Sämtliche Quellcodes sind lizenziert unter
 
 E-Mail: [dhbw@windows3.de](mailto:dhbw@windows3.de)
 Webseite: https://www.wpvs.de
+
+<br>
