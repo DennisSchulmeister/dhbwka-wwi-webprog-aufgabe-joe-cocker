@@ -11,12 +11,13 @@ in file `index.html`.
 
 <br>
 
-## Copyright ##
+## Copyright / License ##
 
 <br>
 
 Sämtliche Quellcodes sind lizenziert unter
-[_Creative Commons Namensnennung 4.0 International_](http://creativecommons.org/licenses/by/4.0/)
+[_Creative Commons Namensnennung 4.0 International_](http://creativecommons.org/licenses/by/4.0/),
+siehe auch [diese Datei](LICENSE.md).
 
 © 2017 – 2026 Dennis Schulmeister-Zimolong
 
